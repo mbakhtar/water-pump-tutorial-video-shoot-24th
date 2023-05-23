@@ -5,7 +5,7 @@
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* open [Water Pump Tutorial Beginner](https://makecode.microbit.org/#tutorial:github:mbakhtar/water-pump-tutorial-video-shoot-24th/waterpump)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/mbakhtar/water-pump-tutorial-video-shoot-24th** and import
